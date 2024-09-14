@@ -1,4 +1,3 @@
 # Tools
 
-Programming Languages
-Frameworks
+Programming Languages and Frameworks
